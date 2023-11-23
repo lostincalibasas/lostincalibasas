@@ -27,10 +27,10 @@ I'm open to collaborations that involve:
 
 📫 How to Reach Me </br>
 Feel free to connect with me through:</br>
- [[params.social]]
+[[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/imad-eddine-guettar-178450173/[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/imad-eddine-guettar-178450173/)"
+    link = "[//linkedin.com/in/USERNAME"](https://www.linkedin.com/in/imad-eddine-guettar-178450173/)"
 Email
 Let's explore the world of data and AI together!
 <!---
