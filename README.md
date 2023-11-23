@@ -25,9 +25,12 @@ I'm open to collaborations that involve:
 * Innovative AI applications.</br>
 * Knowledge-sharing initiatives.</br>
 
-📫 How to Reach Me
-Feel free to connect with me through:
-LinkedIn[(https://www.linkedin.com/in/imad-eddine-guettar-178450173/)]
+📫 How to Reach Me </br>
+Feel free to connect with me through:</br>
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/imad-eddine-guettar-178450173/[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/imad-eddine-guettar-178450173/)"
 Email
 Let's explore the world of data and AI together!
 <!---
