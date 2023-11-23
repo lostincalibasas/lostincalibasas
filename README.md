@@ -27,7 +27,7 @@ I'm open to collaborations that involve:
 
 📫 How to Reach Me
 Feel free to connect with me through:
-[[LinkedIn](https://www.linkedin.com/in/imad-eddine-guettar-178450173/)]
+[LinkedIn(https://www.linkedin.com/in/imad-eddine-guettar-178450173/)]
 Email
 Let's explore the world of data and AI together!
 <!---
