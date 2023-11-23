@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-Hi there! 👋 I'm Imad Eddine
+Hi there! 👋 I'm @lostincalibasas
 About Me
 I'm a passionate data scientist with a deep love for turning data into insights and solutions. My journey in the world of data and AI is fueled by curiosity and a commitment to making a meaningful impact.
 
@@ -14,22 +14,20 @@ I'm a passionate data scientist with a deep love for turning data into insights 
 * Unraveling the mysteries hidden in datasets.
 
 🌱 Currently Learning
-I'm on a continuous learning journey, always seeking to enhance my skills. Presently, I'm diving into:
+I'm on a continuous learning journey, always seeking to enhance my skills.</br>
 I'm currently immersed in the fascinating world of statistical models, with a focus on survival analysis. </br>
 My journey involves understanding the intricacies of this model and mastering its application in solving complex problems,</br>
 particularly in the realm of churn prediction. The thrill of predicting the future and optimizing strategies to retain valuable </br>
-customers is what drives my current learning adventure.ning]
+customers is what drives my current learning adventure.
 🤝 Let's Collaborate
 I'm open to collaborations that involve:
+* Exciting data science projects.</br>
+* Innovative AI applications.</br>
+* Knowledge-sharing initiatives.</br>
 
-Exciting data science projects.
-Innovative AI applications.
-Knowledge-sharing initiatives.
 📫 How to Reach Me
 Feel free to connect with me through:
-
-LinkedIn
-Twitter
+LinkedIn[I'm a reference-style link][Arbitrary case-insensitive reference text]
 Email
 Let's explore the world of data and AI together!
 <!---
