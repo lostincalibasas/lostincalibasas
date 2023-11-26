@@ -14,13 +14,12 @@ I'm a passionate data scientist with a deep love for turning data into insights 
 * Unraveling the mysteries hidden in datasets.
 
 🌱 Currently Learning  </br>
-I'm on a continuous learning journey, always seeking to enhance my skills.</br>
 I'm currently immersed in the fascinating world of statistical models, with a focus on survival analysis. </br>
 My journey involves understanding the intricacies of this model and mastering its application in solving complex problems,</br>
 particularly in the realm of churn prediction. The thrill of predicting the future and optimizing strategies to retain valuable </br>
-customers is what drives my current learning adventure.
+customers is what drives my current learning adventure.</br>
 🤝 Let's Collaborate </br>
-I'm open to collaborations that involve:
+I'm open to collaborations that involve: </br>
 * Exciting data science projects.</br>
 * Innovative AI applications.</br>
 * Knowledge-sharing initiatives.</br>
