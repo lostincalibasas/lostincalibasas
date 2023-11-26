@@ -13,7 +13,7 @@ I'm a passionate data scientist with a deep love for turning data into insights 
 * Leveraging advanced Python libraries to craft intelligent solutions.
 * Unraveling the mysteries hidden in datasets.
 
-🌱 Currently Learning </br>
+🌱 Currently Learning  </br>
 I'm on a continuous learning journey, always seeking to enhance my skills.</br>
 I'm currently immersed in the fascinating world of statistical models, with a focus on survival analysis. </br>
 My journey involves understanding the intricacies of this model and mastering its application in solving complex problems,</br>
