@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
-Hi there! 👋 I'm @lostincalibasas
-About Me
+## About Me
 I'm a passionate data scientist with a deep love for turning data into insights and solutions.</br> My journey in the world of data and AI is fueled by curiosity and a commitment to making a meaningful impact.
 
 🔍 What I'm Interested In
