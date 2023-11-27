@@ -17,7 +17,12 @@ I'm open to collaborations that involve: </br>
 * Knowledge-sharing initiatives.</br>
 
 ## 📫 How to Reach Me </br>
-Feel free to connect with me through [linkedin](https://www.linkedin.com/in/imad-eddine-guettar-178450173/) </br>
+
+
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+Feel free to connect with me through <a href="https://www.linkedin.com/in/imad-eddine-guettar-178450173/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a></br>
 Let's explore the world of data and AI together!
 <!---
 lostincalibasas/lostincalibasas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
