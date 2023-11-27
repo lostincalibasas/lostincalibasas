@@ -18,7 +18,7 @@ I'm open to collaborations that involve: </br>
 
 ## 📫 How to Reach Me </br>
 
-Feel free to connect with me through :
+Feel free to connect with me through :</br>
 <a href="https://www.linkedin.com/in/imad-eddine-guettar-178450173/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a></br>
 Let's explore the world of data and AI together!
 <!---
