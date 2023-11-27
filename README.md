@@ -17,7 +17,7 @@ I'm open to collaborations that involve: </br>
 * Knowledge-sharing initiatives.</br>
 
 ## 📫 How to Reach Me </br>
-Feel free to connect with me through linkedin </br>
+Feel free to connect with me through [linkedin](https://www.linkedin.com/in/imad-eddine-guettar-178450173/) </br>
 Let's explore the world of data and AI together!
 <!---
 lostincalibasas/lostincalibasas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
