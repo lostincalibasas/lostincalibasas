@@ -2,7 +2,7 @@
 I'm a passionate data scientist with a deep love for turning data into insights and solutions.</br> My journey in the world of data and AI is fueled by curiosity and a commitment to making a meaningful impact.
 
 ## 🔍 What I'm Interested In
-* Exploring the depths of data science and machine learning.
+* Exploring the depths of data science and AI for customer experience analytics.
 * Leveraging advanced Python libraries to craft intelligent solutions.
 * Unraveling the mysteries hidden in datasets.
 
